@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./paper_backgroud.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    text-align: center;
+    padding: 2em;
+    margin-top: 20vh;
+    color: black;
+}
+  
+.content h1 {
+    font-size: 4em;
+    margin-bottom: 1em;
+}.content p{
+    margin-top: 50vh;
+    font-size: large;
+}
+
+
